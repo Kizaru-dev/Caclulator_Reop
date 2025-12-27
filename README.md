@@ -34,3 +34,5 @@ This project performs basic arithmetic operations like **Addition, Subtraction, 
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/calculator-project.git
+
+# Photo and Sample of  Calculator . 
